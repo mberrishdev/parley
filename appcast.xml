@@ -7,6 +7,26 @@
     <language>en</language>
 <!-- ITEMS -->
     <item>
+      <title>Version 0.1.7</title>
+      <pubDate>Mon, 28 Sep 2026 20:15:10 GMT</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>Reconnects on its own after starting offline.</p>
+<h3>Fixed</h3>
+<ul>
+<li><b>Stuck offline after launch.</b> If Parley opened before your Mac was online, for example right after logging in or waking from sleep, it showed a &quot;no such host&quot; error and stayed offline until you reopened it. It now keeps retrying and connects as soon as the network is back.</li>
+</ul>
+<h3>Install</h3>
+<p>Parley 0.1.3 and later update automatically. Choose <b>Parley › Check for Updates…</b> to get it now.</p>
+<p>New here or on 0.1.2 or earlier? Download <b>Parley-0.1.7.dmg</b> below and drag Parley to Applications. If macOS says it can&#x27;t verify Parley, go to <b>System Settings › Privacy &amp; Security</b> and click <b>Open Anyway</b>. The app isn&#x27;t notarized yet.</p>
+<p><b>Requirements:</b> macOS 26 or later, Apple Silicon.</p>
+<p>Parley is not affiliated with WhatsApp or Meta.</p>
+      ]]></description>
+      <enclosure url="https://github.com/mberrishdev/parley/releases/download/v0.1.7/Parley-0.1.7.dmg" type="application/octet-stream" sparkle:edSignature="AeCRHRBxlpfRBEqdVq9Deccgwu4rp22KN02TXfaTGgqMPxKDbwZqdKBZr3XTXHYEXb666zl4aJkyp+HS076YDQ==" length="10752293" />
+    </item>
+    <item>
       <title>Version 0.1.6</title>
       <pubDate>Mon, 28 Sep 2026 15:02:14 GMT</pubDate>
       <sparkle:version>7</sparkle:version>
