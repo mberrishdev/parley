@@ -7,6 +7,28 @@
     <language>en</language>
 <!-- ITEMS -->
     <item>
+      <title>Version 0.1.5</title>
+      <pubDate>Mon, 28 Sep 2026 14:48:05 GMT</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>Layout fixes and a smoother sidebar.</p>
+<h3>Fixed</h3>
+<ul>
+<li><b>Long group names no longer cover the chat list.</b> The name at the top of a conversation now stays inside the conversation and shortens to fit narrow windows.</li>
+<li><b>Smoother sidebar.</b> Showing or hiding the sidebar no longer stutters in busy chats.</li>
+<li><b>Parley remembers the sidebar.</b> If you hide it, it stays hidden the next time you open Parley.</li>
+</ul>
+<h3>Install</h3>
+<p>Parley 0.1.3 and later update automatically. Choose <b>Parley › Check for Updates…</b> to get it now.</p>
+<p>New here or on 0.1.2 or earlier? Download <b>Parley-0.1.5.dmg</b> below and drag Parley to Applications. If macOS says it can&#x27;t verify Parley, go to <b>System Settings › Privacy &amp; Security</b> and click <b>Open Anyway</b>. The app isn&#x27;t notarized yet.</p>
+<p><b>Requirements:</b> macOS 26 or later, Apple Silicon.</p>
+<p>Parley is not affiliated with WhatsApp or Meta.</p>
+      ]]></description>
+      <enclosure url="https://github.com/mberrishdev/parley/releases/download/v0.1.5/Parley-0.1.5.dmg" type="application/octet-stream" sparkle:edSignature="E+4hY4bGTFvYJ2YGIefX22tMaRbWk5NJrDKDsAog38LNitZp+gu4PS64vVdrgiOaPeINC3qNOuoKqnMAVryPAg==" length="10720596" />
+    </item>
+    <item>
       <title>Version 0.1.4</title>
       <pubDate>Mon, 28 Sep 2026 11:38:45 GMT</pubDate>
       <sparkle:version>5</sparkle:version>
