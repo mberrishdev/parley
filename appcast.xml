@@ -7,6 +7,32 @@
     <language>en</language>
 <!-- ITEMS -->
     <item>
+      <title>Version 0.1.4</title>
+      <pubDate>Mon, 28 Sep 2026 11:38:45 GMT</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>A new emoji picker.</p>
+<h3>New</h3>
+<ul>
+<li><b>Built-in emoji picker.</b> The 😊 button in the message field now opens an emoji popover with search, categories and your frequently used emoji. It closes when you click anywhere else, and you can pick several emoji in a row.</li>
+<li><b>More reactions.</b> The <b>+</b> in the reaction bar opens the full emoji picker, and picking an emoji reacts with it straight away.</li>
+</ul>
+<h3>Fixed</h3>
+<ul>
+<li>The emoji window no longer stays open after you click outside it.</li>
+<li>Reacting with an emoji from <b>+</b> now actually sends the reaction.</li>
+</ul>
+<h3>Install</h3>
+<p>Parley 0.1.3 and later update automatically. Choose <b>Parley › Check for Updates…</b> to get it now.</p>
+<p>New here or on 0.1.2 or earlier? Download <b>Parley-0.1.4.dmg</b> below and drag Parley to Applications. If macOS says it can&#x27;t verify Parley, go to <b>System Settings › Privacy &amp; Security</b> and click <b>Open Anyway</b>. The app isn&#x27;t notarized yet.</p>
+<p><b>Requirements:</b> macOS 26 or later, Apple Silicon.</p>
+<p>Parley is not affiliated with WhatsApp or Meta.</p>
+      ]]></description>
+      <enclosure url="https://github.com/mberrishdev/parley/releases/download/v0.1.4/Parley-0.1.4.dmg" type="application/octet-stream" sparkle:edSignature="frS44bsKetPeSpOB0NbQNd0krjwmlLej/2qjk+t/4PgMKzCzAAlzGkvSkNIocdckAeS96KQ1pze4GY5tWineAA==" length="10711845" />
+    </item>
+    <item>
       <title>Version 0.1.3</title>
       <pubDate>Mon, 28 Sep 2026 11:19:48 GMT</pubDate>
       <sparkle:version>4</sparkle:version>
