@@ -7,6 +7,28 @@
     <language>en</language>
 <!-- ITEMS -->
     <item>
+      <title>Version 0.1.8</title>
+      <pubDate>Mon, 28 Sep 2026 20:58:41 GMT</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>Snooze chats, send messages later, and read voice messages.</p>
+<h3>New</h3>
+<ul>
+<li><b>Snooze.</b> Right-click a chat and choose <b>Snooze</b>: Later Today, This Evening, Tomorrow, This Weekend, Next Week, or any date and time. The chat moves to a <b>Snoozed</b> list in the sidebar and comes back unread, with a reminder, when the time is up. A new message brings it back early.</li>
+<li><b>Send Later.</b> Hover over the send button and click the clock, or choose <b>Send Later…</b> from the <b>+</b> menu, to pick a time. Scheduled messages wait at the end of the chat, where you can send them now, edit them or delete them. Parley needs to be open, with your Mac awake, to send them on time.</li>
+<li><b>Voice message transcripts.</b> Click the transcript button on a voice message to read it. Transcription runs on your Mac, and the audio never leaves it. Choose the language in <b>Settings › Chats</b>. Georgian and Russian aren&#x27;t supported by macOS yet.</li>
+</ul>
+<h3>Install</h3>
+<p>Parley 0.1.3 and later update automatically. Choose <b>Parley › Check for Updates…</b> to get it now.</p>
+<p>New here or on 0.1.2 or earlier? Download <b>Parley-0.1.8.dmg</b> below and drag Parley to Applications. If macOS says it can&#x27;t verify Parley, go to <b>System Settings › Privacy &amp; Security</b> and click <b>Open Anyway</b>. The app isn&#x27;t notarized yet.</p>
+<p><b>Requirements:</b> macOS 26 or later, Apple Silicon.</p>
+<p>Parley is not affiliated with WhatsApp or Meta.</p>
+      ]]></description>
+      <enclosure url="https://github.com/mberrishdev/parley/releases/download/v0.1.8/Parley-0.1.8.dmg" type="application/octet-stream" sparkle:edSignature="kLSAhPu88A/BPRf0ZPIfZB65p8XZ6KsdISfgKnuuqV0cU7zMbze1omqe8eBydhXpB3jARd9vPVW7c4uV+Qh6Cw==" length="10941058" />
+    </item>
+    <item>
       <title>Version 0.1.7</title>
       <pubDate>Mon, 28 Sep 2026 20:15:10 GMT</pubDate>
       <sparkle:version>8</sparkle:version>
