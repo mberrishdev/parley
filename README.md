@@ -12,6 +12,9 @@ Native SwiftUI. Liquid Glass. Notifications you can answer. Your chats one click
 
 <sub>macOS 26 or later · Apple Silicon · Free</sub>
 
+<a href="https://github.com/mberrishdev/parley/releases"><img src="https://img.shields.io/github/downloads/mberrishdev/parley/total?label=downloads&color=25d366&style=flat-square" alt="Total downloads"></a>
+<a href="https://github.com/mberrishdev/parley/releases/latest"><img src="https://img.shields.io/github/v/release/mberrishdev/parley?label=latest&color=128c7e&style=flat-square" alt="Latest release"></a>
+
 <br>
 
 <a href="media/parley-demo.mp4"><img src="media/demo.gif" width="720" alt="Parley demo: conversations with reactions, replies and voice notes, notifications with inline reply, and the menu bar"></a>
