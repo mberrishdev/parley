@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Parley</title>
+    <link>https://parley.mberrishdev.me</link>
+    <description>Updates for Parley, WhatsApp as a real Mac app.</description>
+    <language>en</language>
+<!-- ITEMS -->
+    <item>
+      <title>Version 0.1.3</title>
+      <pubDate>Mon, 28 Sep 2026 11:19:48 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>Parley now keeps itself up to date.</p>
+<h3>New</h3>
+<ul>
+<li><b>Automatic updates.</b> Parley checks for new versions once a day and offers to install them. Choose <b>Parley › Check for Updates…</b> (or the ••• menu in the menu bar panel) to check any time. Updates are signed, so Parley only installs versions published by its developer.</li>
+<li><b>Update settings.</b> Turn automatic checks, or fully automatic download and install, on or off in <b>Settings › General › Updates</b>.</li>
+</ul>
+<h3>Improved</h3>
+<ul>
+<li><b>The menu bar panel closes when you open something.</b> Clicking Open, a chat, New Chat or Settings now brings up the window and dismisses the panel.</li>
+</ul>
+<h3>Install</h3>
+<ul>
+<li>Download <b>Parley-0.1.3.dmg</b> below and drag Parley to Applications, replacing the older version. This is the last manual update: from now on Parley updates itself.</li>
+<li>Open it. If macOS says it can&#x27;t verify Parley, go to <b>System Settings › Privacy &amp; Security</b> and click <b>Open Anyway</b>. The app isn&#x27;t notarized yet.</li>
+<li>Already linked? You stay signed in.</li>
+</ul>
+<p><b>Requirements:</b> macOS 26 or later, Apple Silicon.</p>
+<p>Parley is not affiliated with WhatsApp or Meta.</p>
+      ]]></description>
+      <enclosure url="https://github.com/mberrishdev/parley/releases/download/v0.1.3/Parley-0.1.3.dmg" type="application/octet-stream" sparkle:edSignature="vmUK+UbhnodkWCVLiSWyzXfBcZ/1whtPKz9ayLBgDITpEMVJfGWduER+1IOfZnfbxJ/JcJ1PVB4BcT4OLfTRBQ==" length="10658135" />
+    </item>
+  </channel>
+</rss>
