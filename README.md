@@ -8,7 +8,7 @@
 
 Native SwiftUI. Liquid Glass. Notifications you can answer. Your chats one click away in the menu bar.
 
-[**Download for Mac**](https://github.com/mberrishdev/parley/releases/latest) · [Watch the demo](media/parley-demo.mp4) · [What's new](https://github.com/mberrishdev/parley/releases)
+[**Download for Mac**](https://github.com/mberrishdev/parley/releases/latest/download/Parley.dmg) · [Watch the demo](media/parley-demo.mp4) · [What's new](https://github.com/mberrishdev/parley/releases)
 
 <sub>macOS 26 or later · Apple Silicon · Free</sub>
 
@@ -76,7 +76,7 @@ It links to your phone exactly like WhatsApp Web does. Scan a QR code once and y
 
 ## Install
 
-1. [Download `Parley-0.1.0.dmg`](https://github.com/mberrishdev/parley/releases/latest) and drag **Parley** into **Applications**.
+1. [Download `Parley.dmg`](https://github.com/mberrishdev/parley/releases/latest/download/Parley.dmg) and drag **Parley** into **Applications**.
 2. Open Parley. The first time, macOS may say it can't check the app for malicious software, because Parley isn't notarized by Apple yet. Go to **System Settings › Privacy & Security** and click **Open Anyway**.<br>
    <sub>Or, in Terminal: `xattr -dr com.apple.quarantine /Applications/Parley.app`</sub>
 3. On your phone, open WhatsApp › **Settings** › **Linked Devices** › **Link a Device**, and scan the code Parley shows.
