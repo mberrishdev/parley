@@ -115,7 +115,7 @@ Third-party clients are against WhatsApp's Terms of Service, and WhatsApp can re
 No. WhatsApp only lets phones place and answer calls. Parley alerts you to incoming calls and keeps your call history.
 
 **Why isn't the app notarized?**
-Notarization needs a paid Apple Developer ID. Until then, use **Open Anyway** once (see Install).
+Notarization needs a paid Apple Developer ID. Until then, macOS asks you to click **Open Anyway** after installing each new version (see Install).
 
 ---
 
